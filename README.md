@@ -34,7 +34,7 @@
 </a>
 </p>
 <hr>
-<div class="flex gap-2">
+<div style="display: flex; gap: 1rem;">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kj-just-l&show_icons=true&locale=en" alt="kj-just-l" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kj-just-l&show_icons=true&locale=en&layout=compact" alt="kj-just-l" /></p>
 </div>
