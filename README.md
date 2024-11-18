@@ -1,5 +1,4 @@
-<h3><strong>Just L - Frontend & Backend Developer</strong></h3>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Kanathip Jaraspaeo and I'm a Frontend & Backend Developer</h2>
 
 ###
 
